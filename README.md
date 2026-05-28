@@ -1,6 +1,6 @@
 
 
-# Termux-discord-token-getter
+# Discord Token Retriever for Termux
 This is a discord token Getter for phone if you do not have a pc
 
 

@@ -12,7 +12,8 @@ it doesn't bypass Capture so you may be 400 error but it still works fine.
 
 Requirement
 
-pip install requests
+requests ( ALL YOU NEED )
+
 and then main.py
 
  

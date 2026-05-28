@@ -31,7 +31,7 @@ This tool is for educational and personal use only. Do not use it for spam, abus
 made by nox
 dev: nox
 
-Install dependencies:
+Install dependencies/clone:
 ```bash
 git clone https://github.com/nxgq/Termux-discord-token-getter.git
 pip install requests

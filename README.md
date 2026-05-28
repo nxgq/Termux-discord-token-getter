@@ -28,8 +28,8 @@ This tool is for educational and personal use only. Do not use it for spam, abus
 # if you need help or have questions please dm on discord: 3bnw or tele:nox1155
 
 # Credit 
-made by nox
-dev: nox
+made by alone 
+dev: alone 
 
 Install dependencies/clone:
 ```bash

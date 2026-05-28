@@ -1,8 +1,8 @@
 
 
 # Termux-discord-token-getter
-This is a discord token Getter by phone if you do not have a pc
-hi this is a discord token Getter for Mobile
+This is a discord token Getter for phone if you do not have a pc
+
 
 # Termux Python Script Tool
 
